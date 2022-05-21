@@ -22,7 +22,5 @@ Here are some ideas to get you started:
 
 ## ❤ Views and Followers 
   
- <a href="https://github.com/gopipatwa/github-profile-views-counter"> 
-     <img src="https://komarev.com/ghpvc/?username=theintezar"> 
- </a> 
- <a href="https://github.com/gopipatwa?tab=followers"><img src="https://img.shields.io/github/followers/gopipatwa?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
